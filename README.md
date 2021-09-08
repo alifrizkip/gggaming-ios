@@ -13,6 +13,13 @@ Hardware & Tools I used:
 [**See and view download demo video here**](https://drive.google.com/file/d/1MT-1JngGQ_y-fU_nDFePt7UW2owYAUXE/view?usp=sharing)
 
 # Screenshots
+Screenshots of pages/screens:
+- [Homepage](#homepage)
+- [Detail](#detail)
+- [Search](#search)
+- [Wishlist](#wishlist)
+- [Profile](#profile)
+- [Update Profile](#update-profile)
 
 ## Homepage
 <img src="https://user-images.githubusercontent.com/18460240/132503143-611c8da0-039d-4fe6-a518-6c20d334b22b.png" alt="" data-canonical-src="https://user-images.githubusercontent.com/18460240/132503143-611c8da0-039d-4fe6-a518-6c20d334b22b.png" width="45%" />.    <img src="https://user-images.githubusercontent.com/18460240/132503200-6c0a130e-47be-48bb-88a4-428b6af9bd49.png" alt="" data-canonical-src="https://user-images.githubusercontent.com/18460240/132503200-6c0a130e-47be-48bb-88a4-428b6af9bd49.png" width="45%" />
