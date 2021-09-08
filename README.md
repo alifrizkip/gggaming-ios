@@ -10,7 +10,7 @@ Hardware & Tools I used:
 - Xcode 12.5.1
 
 # Demo Video
-[**See and view download demo video here**](https://drive.google.com/file/d/1MT-1JngGQ_y-fU_nDFePt7UW2owYAUXE/view?usp=sharing)
+[**See or download demo video here**](https://drive.google.com/file/d/1MT-1JngGQ_y-fU_nDFePt7UW2owYAUXE/view?usp=sharing)
 
 # Screenshots
 Screenshots of pages/screens:
